@@ -11,9 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# BIO
+I am a student a Boise State University, currently pursuing my Bachelors of Science in computer Science with and emphasis in Cyber-Security.
+I work as an undergraduate research assistant for the PICSS lab at Boise State. My research touches on Cyber-Physical System Security,
+Digital Twins, and Formal Verification.
 
 - Bulleted
 - List
